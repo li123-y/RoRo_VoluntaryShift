@@ -126,3 +126,5 @@ Destination_each_Order:
 6 
 10 
 6 
+PortNum_total:10
+PortNum_supply_region:5
